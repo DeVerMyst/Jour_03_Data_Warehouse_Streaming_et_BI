@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# dbt generated folders
+dbt_scd_demo/
+ecommerce_dbt/
+**/target/
+**/dbt_packages/
+**/logs/
+.user.yml
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

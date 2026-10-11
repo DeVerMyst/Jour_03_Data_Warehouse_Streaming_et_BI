@@ -1,0 +1,5 @@
+sale_id,sale_date,customer_name,customer_city,product_name,category,unit_price,quantity,total_amount
+101,2026-10-14,Alice Martin,Lyon,Abonnement Premium,Services,9.99,1,9.99
+102,2026-10-14,Bob Dupont,Paris,Casque Audio Pro,Hardware,149.00,2,298.00
+103,2026-10-15,Alice Martin,Lyon,Câble USB-C,Accessoires,15.00,3,45.00
+104,2026-10-15,Claire Petit,Marseille,Casque Audio Pro,Hardware,149.00,1,149.00
